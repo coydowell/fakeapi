@@ -1,11 +1,6 @@
 {
-  "RMARequest": [
-    {
-      "caseTicket": "01590889",
-      "referenceNum": "00D30MCC._5001O1Pqijb"
-    }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
+	"RMARequest": [{
+		"caseTicket": "01590889",
+		"referenceNum": "00D30MCC._5001O1Pqijb"
+	}]
 }
